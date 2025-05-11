@@ -1,0 +1,11 @@
+https://appdmkj.5idream.net/v2/login/phone #登录接口 token登录举例:：{"jPushId":"xxx","timestamp":"1746793636058","token":"xxx","uid":"xxx","version":"4.7.3"}
+
+https://appdmkj.5idream.net/v2/login/phone #登陆接口 {"account":"xxx","jPushId":"xxx","pwd":"xxx","timestamp":"1746794041324","version":"4.7.3"}
+
+https://appdmkj.5idream.net/v3/user/mine_homepage #个人资料查询接口: {"jPushId":"xxx","timestamp":"1746793725806","token":"xxx","uid":"xxx","version":"4.7.3"}
+
+https://appdmkj.5idream.net/v2/activity/activities #活动查询接口:{"catalogId":"","catalogId2":"","collegeFlag":"","endTime":"","jPushId":"xxx","joinEndTime":"","joinFlag":"1","joinStartTime":"","keyword":"","level":"","page":"1","sort":"","specialFlag":"","startTime":"","status":"","timestamp":"xxx","token":"xxx","uid":"xxx","version":"4.7.3"}
+
+https://appdmkj.5idream.net/v2/activity/detail # 活动详情接口 参数举例:{"activityId":"xxx","jPushId":"xxx","signToken":"xxx","timestamp":"1746793554178","token":"xxx","uid":"xxx","version":"4.7.3"}
+
+https://appdmkj.5idream.net/v2/signup/submit #活动提交接口 参数举例:{"uid": "xxx","token": "xxx","data": "[]","remark": "", "activityId": "xxx","version": "4.7.1"}
